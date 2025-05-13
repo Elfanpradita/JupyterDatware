@@ -6,6 +6,8 @@ Project ini dikembangkan oleh **Elfan Pradita** untuk mempermudah proses data an
 
 ---
 
+## Dah gitu aja yaa Guys...
+
 ## 🚀 Mulai dari Awal
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan project ini di mesin kamu:
@@ -15,5 +17,3 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan project ini di mesin kamu:
 ```bash
 git clone https://github.com/elfanpradita/JupyterDatware.git
 cd JupyterDatware
-
-### Dah gitu aja yaa Guys...
